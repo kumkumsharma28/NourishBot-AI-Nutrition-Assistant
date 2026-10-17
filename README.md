@@ -32,6 +32,7 @@ This project demonstrates the integration of artificial intelligence, computer v
 - AI and computer vision tools
 - YAML configuration files
 
+
 ## Project Structure
 
 ```text
@@ -53,10 +54,8 @@ NourishBot-AI-Nutrition-Assistant/
 ├── __init__.py
 ├── app.py
 ├── requirements.txt
-└──├── requirements.txt
 └── README.md
 ```
-
 ## Future Improvements
 
 - Improve the accuracy of calorie and nutrient estimates.
