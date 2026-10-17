@@ -10,6 +10,9 @@ sdk_version: 5.12.0
 AI NutriCoach is an AI-powered nutrition assistant designed to analyze food images and provide nutrition-related insights. It uses AI workflows to identify food ingredients, consider dietary preferences, estimate calories, analyze nutrients, and suggest recipes.
 
 This project demonstrates the integration of artificial intelligence, computer vision, natural language processing, and interactive web applications.
+## Application Preview
+
+![NourishBot Application Screenshot](nourishbot-demo.png.jpg)
 
 ## Features
 
