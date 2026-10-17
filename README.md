@@ -53,4 +53,20 @@ NourishBot-AI-Nutrition-Assistant/
 ├── __init__.py
 ├── app.py
 ├── requirements.txt
-└── README.mdlease contact [Hailey Thao Quach](mailto:hailey@haileyq.com).
+└──├── requirements.txt
+└── README.md
+```
+
+## Future Improvements
+
+- Improve the accuracy of calorie and nutrient estimates.
+- Add more dietary preferences and restrictions.
+- Improve the user interface and error handling.
+
+## Learning Outcomes
+
+This project provides practical experience with Python, AI workflows, Gradio, and integrating AI models into an interactive application.
+
+## Author
+
+GitHub: [kumkumsharma28](https://github.com/kumkumsharma28)
